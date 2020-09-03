@@ -1,4 +1,4 @@
-# CS50
+﻿# CS50
 <p align="center">
   <img src="https://user-images.githubusercontent.com/62308612/91111567-82f19580-e689-11ea-8c57-f9026dd76143.png" />
 </p>
@@ -9,7 +9,7 @@ Hafta hafta readme kısmında içeriklerden kısa kısa bahsediliyor olup, her h
 Ayrıca her haftanın kendi dizinindeki readme bölümlerinde o haftaya ait ders notları bulunuyor olacak.
 
 
-Bu derse başlarken şunu belirtmek isterim ki şuan iyi bir düzeyde R ve Python biliyor olmama rağmen öncesinde C geçmişim yok. Onun için aslında bu repostory C gelişimimi de yansıtıyor olacak.
+Bu derse başlarken şunu belirtmek isterim ki şuan iyi bir düzeyde R ve Python biliyor olmama rağmen öncesinde "C" geçmişim yok. Onun için aslında bu repostory "c" gelişimimi de yansıtıyor olacak.
 (24.08.2020)
 
 ## İçerik:
