@@ -81,3 +81,5 @@ Bu hafta ödevlerini yapmak için öncesinde kısa sayılmayacak şekilde bilgil
 3. Resize Advenced. Resize ödevinin bir ileriki seviyesi olan bu bölümde resize işlemini tam sayıdan oluşan katlar olarak değil de 0-1 aralığında küçültme amaçlı bir resize süreci amaçlanarak bir program yazmamız isteniyor. Küçülterek resize aşamasında bazı piksellerin bozulması veya silinmesi gerekebiliyor, burası yoruma açık fakat yine yönlendirmeler mevcut. Bu haftanın ödevleri farklı bakışaçıları kazandıran cinsten.
 
 4. Recover.
+
+# KURSUN ILERLEYEN HAFTALARINDA YOGUNLUGUM SEBEBIYLE (ise girdim) NOT TUTMAYI AKSATIR OLDUM. ACIKLAMASIZ EKLEMEK ISTEMEDIGIM ICIN SUAN ICIN YAKIN ZAMANDA DIGER HAFTA ICERIKLERINI YUKLEMEYECEGIM. (Kursu bitirdim, fakat notlar paylasilabilir aciklikta degil belki suan)
